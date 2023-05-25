@@ -6,7 +6,7 @@
 display:flex;
 justify-content: space-evenly;
 }
-.column-1 img,.column-2 img,.column-3 img,.column-4 img{
+.col-sm-1 img,.col-sm-2 img,.col-sm-4 img,.col-sm-12 img{
     width: 100%;
 }
 
