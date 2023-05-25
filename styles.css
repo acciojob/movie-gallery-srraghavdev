@@ -1,2 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+.row-1, .row-2, .row-3, .row-4{
+display:flex;
+justify-content: space-evenly;
+}
+.column-1 img,.column-2 img,.column-3 img,.column-4 img{
+    width: 100%;
+}
 
-/* Your CSS Code here. */
